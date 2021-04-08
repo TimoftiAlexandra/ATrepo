@@ -2,5 +2,4 @@ os: osx
 language: ruby
 script:
 - sleep 1m
-  - echo 'OK'
-  
+- echo 'OK'
